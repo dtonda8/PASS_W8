@@ -28,7 +28,7 @@ An integer `n` is a power of three, if there exists an integer x such that `n` =
 Example 1:
 **Input**: n = 27  
 **Output**: true  
-Explanation: 27 = 33
+Explanation: 27 = $3^3$
 
 
 Example 2:  
@@ -39,7 +39,7 @@ Explanation: There is no x where $3^x$ = 0.
 Example 3:  
 **Input**: n = -1  
 **Output**: false  
-Explanation: There is no x where $3^x$ = (-1).
+Explanation: There is no x where $3^x$ = -1.
 
 Extra: if you done the iterative approach, try the recursive approach (or vice versa)
 
